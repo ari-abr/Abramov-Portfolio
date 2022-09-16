@@ -1,5 +1,5 @@
 .navbar{
-    background-color: #00778F!important;
+    background-color: #14213d!important;
     font-weight: 700!important;
     text-align: center!important;
     font-family: 'Oxanium', cursive;
@@ -24,7 +24,7 @@
     color: white!important;
 }
 body{
-    background-image: linear-gradient(#00778F,#b7094c);
+    background-image: linear-gradient(#14213d,#b7094c);
     background-size: cover;
     font-family: 'Nunito', sans-serif;
 }
@@ -60,7 +60,7 @@ hr{
     height: 5px;
     width: 5%;
     float: left;
-    background-image: linear-gradient(to right, #892B64 , #005566);
+    background-image: linear-gradient(to right, #892B64 , #14213d);
 }
 .button-home{
     margin-top: 5%;
@@ -97,8 +97,8 @@ hr{
 	}
 }
 .section-home-about{
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
     background-color:#F2F4F8;
     font-size: x-large;
     color: #0A141F;
@@ -122,13 +122,13 @@ hr{
     border: none;
 }
 .section-about{
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
     border-radius: 5px;  
     background-color: rgba(255, 255, 255, 0.75);
     font-size: x-large;
     color: #0A141F;
-    padding: 4%;
+    padding: 5%;
     padding-bottom: 5%;
 }
 .section-contact, .section-resume{
